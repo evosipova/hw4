@@ -1,0 +1,44 @@
+[SELLER 1] Initialized
+[SELLER 2] Initialized
+[CUSTOMER 2] Initialized
+[CUSTOMER 2] Stood up in the second queue
+[CUSTOMER 1] Initialized
+[CUSTOMER 1] Stood up in the first queue
+[CUSTOMER 4] Initialized
+[CUSTOMER 4] Stood up in the first queue
+[SELLER 1] Maintaining client #1
+[SELLER 1] Client #1 maintained. Sold items count: 1
+[SELLER 1] Maintaining client #4
+[SELLER 1] Client #4 maintained. Sold items count: 1
+[CUSTOMER 1] Left first queue
+[SELLER 2] Maintaining client #2
+[CUSTOMER 1] Finished
+[SELLER 2] Client #2 maintained. Sold items count: 4
+[CUSTOMER 4] Left first queue
+[CUSTOMER 4] Stood up in the second queue
+[SELLER 2] Maintaining client #4
+[SELLER 2] Client #4 maintained. Sold items count: 1
+[CUSTOMER 2] Left second queue
+[CUSTOMER 3] Initialized
+[CUSTOMER 3] Stood up in the first queue
+[SELLER 1] Maintaining client #3
+[SELLER 1] Client #3 maintained. Sold items count: 1
+[CUSTOMER 2] Finished
+[CUSTOMER 4] Left second queue
+[CUSTOMER 4] Finished
+[CUSTOMER 3] Left first queue
+[CUSTOMER 3] Stood up in the second queue
+[SELLER 2] Maintaining client #3
+[SELLER 2] Client #3 maintained. Sold items count: 2
+[CUSTOMER 3] Left second queue
+[CUSTOMER 3] Stood up in the first queue
+[SELLER 1] Maintaining client #3
+[SELLER 1] Client #3 maintained. Sold items count: 1
+[CUSTOMER 3] Left first queue
+[CUSTOMER 3] Stood up in the second queue
+[SELLER 2] Maintaining client #3
+[SELLER 2] Client #3 maintained. Sold items count: 1
+[CUSTOMER 3] Left second queue
+[CUSTOMER 3] Finished
+[SELLER 2] Finished
+[SELLER 1] Finished

@@ -1,0 +1,61 @@
+Generated 2 customers with given items list:
+
+- BBBABAAABBBBAAB
+- ABBBABA
+
+[CUSTOMER 1] Initialized
+[CUSTOMER 1] Stood up in the second queue
+[SELLER 2] Initialized
+[SELLER 2] Maintaining client #1
+[SELLER 2] Client #1 maintained. Sold items count: 3
+[CUSTOMER 1] Left second queue
+[CUSTOMER 1] Stood up in the first queue
+[SELLER 1] Initialized
+[SELLER 1] Maintaining client #1
+[SELLER 1] Client #1 maintained. Sold items count: 1
+[CUSTOMER 2] Initialized
+[CUSTOMER 2] Stood up in the first queue
+[SELLER 1] Maintaining client #2
+[SELLER 1] Client #2 maintained. Sold items count: 1
+[CUSTOMER 1] Left first queue
+[CUSTOMER 1] Stood up in the second queue
+[SELLER 2] Maintaining client #1
+[SELLER 2] Client #1 maintained. Sold items count: 1
+[CUSTOMER 2] Left first queue
+[CUSTOMER 2] Stood up in the second queue
+[CUSTOMER 1] Left second queue
+[CUSTOMER 1] Stood up in the first queue
+[SELLER 2] Maintaining client #2
+[SELLER 2] Client #2 maintained. Sold items count: 3
+[CUSTOMER 2] Left second queue
+[CUSTOMER 2] Stood up in the first queue
+[SELLER 1] Maintaining client #1
+[SELLER 1] Client #1 maintained. Sold items count: 3
+[SELLER 1] Maintaining client #2
+[SELLER 1] Client #2 maintained. Sold items count: 1
+[CUSTOMER 2] Left first queue
+[CUSTOMER 2] Stood up in the second queue
+[CUSTOMER 1] Left first queue
+[CUSTOMER 1] Stood up in the second queue
+[SELLER 2] Maintaining client #2
+[SELLER 2] Client #2 maintained. Sold items count: 1
+[SELLER 2] Maintaining client #1
+[SELLER 2] Client #1 maintained. Sold items count: 4
+[CUSTOMER 2] Left second queue
+[CUSTOMER 2] Stood up in the first queue
+[SELLER 1] Maintaining client #2
+[SELLER 1] Client #2 maintained. Sold items count: 1
+[CUSTOMER 1] Left second queue
+[CUSTOMER 1] Stood up in the first queue
+[SELLER 1] Maintaining client #1
+[SELLER 1] Client #1 maintained. Sold items count: 2
+[CUSTOMER 2] Left first queue
+[CUSTOMER 2] Finished
+[CUSTOMER 1] Left first queue
+[CUSTOMER 1] Stood up in the second queue
+[SELLER 2] Maintaining client #1
+[SELLER 2] Client #1 maintained. Sold items count: 1
+[CUSTOMER 1] Left second queue
+[CUSTOMER 1] Finished
+[SELLER 2] Finished
+[SELLER 1] Finished
