@@ -127,7 +127,7 @@ Initializes customer and sellers thread:<br>
 ![img_3.png](img_3.png)<br>
 [output5.txt](output5.txt) - файл с выходными данными
 
-• В программу добавлены ввод данных из файла и вывод результатов в файл.
+• В программу добавлены ввод данных из файла и вывод результатов в файл.<br>
 ![img.png](img.png)
 
 Тест 1: <br>
@@ -138,7 +138,7 @@ Initializes customer and sellers thread:<br>
 [input2.txt](input2.txt) - файл с входными данными<br>
 [output6.txt](output6.txt) - файл с выходными данными
 
-• В программу добавлена генерация случайных данных в допустимых диапазонах.
+• В программу добавлена генерация случайных данных в допустимых диапазонах.<br>
 ![img_1.png](img_1.png)
 
 [output2.txt](output2.txt) - тест 1 <br>
