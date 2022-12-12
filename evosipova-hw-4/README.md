@@ -47,6 +47,11 @@
 [argument_resolver](argument_resolver) <br>
 
 
+Входные данные:<br>
+2        - (количество отделов n) 
+3 ABA    - (количество товаров и сами товары в 1-ом из n отделов)
+2 A      - (количество товаров и сами товары во 2-ом из n отделов)
+
 Тест 1:<br>
 ![img_4.png](img_4.png)
 
@@ -77,7 +82,7 @@ Initializes customer and sellers thread:<br>
 ![img_7.png](img_7.png)<br>
 
 
-• Реализован ввод данных из командной строки.
+• Реализован ввод данных из командной строки.<br>
 ![img_2.png](img_2.png)
 ```
 [SELLER 1] Initialized
