@@ -145,7 +145,7 @@ Initializes customer and sellers thread:<br>
 [output3.txt](output3.txt) - тест 2 <br>
 [output4.txt](output4.txt) - тест 3 <br>
 
-Список литературы:
+Список литературы:<br>
 • http://softcraft.ru/edu/comparch/practice/thread/01-simple/  <br>
 • https://en.wikipedia.org/wiki/Producer–consumer_problem  <br>
 • https://bool.dev/blog/detail/competing-consumers-pattern
